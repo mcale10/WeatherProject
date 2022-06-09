@@ -1,1 +1,1 @@
-# WeatherProject based on Node.js
+# Simple WeatherProject based on Node.js
